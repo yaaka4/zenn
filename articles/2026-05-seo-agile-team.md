@@ -3,7 +3,7 @@ title: "SEOアジャイルチームを新設した話 〜EMが事業課題から
 emoji: "🌏"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["SEO", "アジャイル", "EM", "チーム運営", "オフショア"]
-published: false
+published: true
 ---
 
 # はじめに
